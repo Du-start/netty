@@ -1,4 +1,4 @@
-package com.du.netty;
+package com.du.netty.simple;
 
 
 import io.netty.buffer.ByteBuf;

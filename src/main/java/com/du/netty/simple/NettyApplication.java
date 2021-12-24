@@ -1,4 +1,4 @@
-package com.du.netty;
+package com.du.netty.simple;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
